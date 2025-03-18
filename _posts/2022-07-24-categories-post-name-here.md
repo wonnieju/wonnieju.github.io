@@ -1,6 +1,6 @@
 ---
-title: "[blog]안녕하세요 TEST 공간 입니다"
-excerpt: "[blog]안녕하세요 TEST 공간 입니다"
+title: "[blog] 안녕하세요 TEST 공간 입니다"
+excerpt: "[blog] 안녕하세요 TEST 공간 입니다"
 
 categories:
   - Categories1

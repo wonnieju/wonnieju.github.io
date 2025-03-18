@@ -120,7 +120,7 @@ nav: "categories"
 ```yml
 # sidebar navigation (categories)
 categories:
-  - title: "Categories1입니다."
+  - title: "Categories1"
     url: /categories/categories1/
   - title: "Categories2"
     url: /categories/categories2/

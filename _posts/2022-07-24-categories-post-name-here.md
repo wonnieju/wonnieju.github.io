@@ -3,7 +3,7 @@ title: "안녕하세요 TEST 공간 입니다"
 excerpt: "안녕하세요 TEST 공간 입니다"
 
 categories:
-  - Categories1
+  - SQL
 tags:
   - [tag1, tag2]
 
